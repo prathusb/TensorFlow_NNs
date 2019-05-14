@@ -1,3 +1,2 @@
 model_checkpoint_path: "9_final.ckpt"
-all_model_checkpoint_paths: "9.ckpt"
 all_model_checkpoint_paths: "9_final.ckpt"
