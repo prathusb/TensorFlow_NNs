@@ -1,3 +1,4 @@
 model_checkpoint_path: "my_dnn11_0_to_4_final.ckpt"
-all_model_checkpoint_paths: "my_mnist_model_0_to_4.ckpt"
+all_model_checkpoint_paths: "dnn11_0_to_4.ckpt"
+all_model_checkpoint_paths: "dnn11_0_to_4.epoch"
 all_model_checkpoint_paths: "my_dnn11_0_to_4_final.ckpt"
