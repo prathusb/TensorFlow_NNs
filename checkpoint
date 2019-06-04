@@ -1,4 +1,4 @@
-model_checkpoint_path: "my_dnn11_0_to_4_final.ckpt"
-all_model_checkpoint_paths: "dnn11_0_to_4.ckpt"
-all_model_checkpoint_paths: "dnn11_0_to_4.epoch"
-all_model_checkpoint_paths: "my_dnn11_0_to_4_final.ckpt"
+model_checkpoint_path: "mini_project_final.ckpt"
+all_model_checkpoint_paths: "mini_project.ckpt"
+all_model_checkpoint_paths: "mini_project.epoch"
+all_model_checkpoint_paths: "mini_project_final.ckpt"
