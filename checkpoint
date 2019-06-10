@@ -1,4 +1,2 @@
-model_checkpoint_path: "mini_project_final.ckpt"
-all_model_checkpoint_paths: "mini_project.ckpt"
-all_model_checkpoint_paths: "mini_project.epoch"
-all_model_checkpoint_paths: "mini_project_final.ckpt"
+model_checkpoint_path: "mini_project_2_final"
+all_model_checkpoint_paths: "mini_project_2_final"
